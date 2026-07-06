@@ -1,5 +1,5 @@
 {
-  "version": "0.9.8",
-  "notes": "Latest build.",
+  "version": "0.9.9",
+  "notes": "• Map view: empty and deleted folders no longer clutter the 'unlocated' list, plus a new search box to filter it.\n• In-app update notifications.",
   "url": "https://zeehanmanse.wordpress.com/photon/"
 }
