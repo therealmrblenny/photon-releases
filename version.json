@@ -1,5 +1,5 @@
 {
-  "version": "0.9.9",
-  "notes": "• Map view: empty and deleted folders no longer clutter the 'unlocated' list, plus a new search box to filter it.\n• In-app update notifications.",
+  "version": "1.0.0",
+  "notes": "\u2022 Colour search \u2014 filter your library by the colours in your photos, including black & white.\n\u2022 11 new themes (3 white, 4 dark, 4 grey), each with its own typography, plus a theme editor.\n\u2022 Fonts are now bundled \u2014 nothing is fetched over the network any more.\n\u2022 Fixed: brightness, contrast, saturation and hue edits were being dropped from thumbnails.\n\u2022 Fixed: \"Build HD Thumbnails\" discarded edits and rotations for the whole folder.",
   "url": "https://zeehanmanse.wordpress.com/photon/"
 }
