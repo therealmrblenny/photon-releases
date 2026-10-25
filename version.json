@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "New in this version: Cull and Organise, starring while you cull, deleted photos go to your Trash, and video thumbnails on Windows and macOS.\nPhoton has a new home: downloads now come from photon.ventureindustries.au.",
+  "version": "1.1.1",
+  "notes": "Report an issue from inside Photon, photos on an unplugged drive stay in your library and say so, and a fix for thin lines across zoomed Pixel photos on Windows.\nPhoton has a new home: downloads now come from photon.ventureindustries.au.",
   "url": "https://photon.ventureindustries.au/download/"
 }
