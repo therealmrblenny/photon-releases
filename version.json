@@ -1,5 +1,1 @@
-{
-  "version": "1.1.1",
-  "notes": "Report an issue from inside Photon, photos on an unplugged drive stay in your library and say so, and a fix for thin lines across zoomed Pixel photos on Windows.\nPhoton has a new home: downloads now come from photon.ventureindustries.au.",
-  "url": "https://photon.ventureindustries.au/download/"
-}
+{"version": "1.2.0", "notes": "Edits made in Picasa now come across, including I'm Feeling Lucky, Auto Contrast, Fill Light, straighten and effects. There's a new Effects tab. Text and emoji look the same on screen, in thumbnails and in exports. Generating thumbnails no longer ties up your computer for as long.\nPhoton has a new home: downloads now come from photon.ventureindustries.au.", "url": "https://photon.ventureindustries.au/download/"}
